@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "831847861629",
+    "firebase_url": "https://hips-a3ab6.firebaseio.com",
+    "project_id": "hips-a3ab6",
+    "storage_bucket": "hips-a3ab6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831847861629:android:3248077e34c5da08c25014",
+        "android_client_info": {
+          "package_name": "com.HDevara.hips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831847861629-v559jnjf3apo04mqc1s6ar8hv6uvposv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFD0efYBdar4mf5hi5LxooihSb0TWppS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831847861629-v559jnjf3apo04mqc1s6ar8hv6uvposv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
