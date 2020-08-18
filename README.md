@@ -1,6 +1,6 @@
 # hips
 
-A new Flutter project.
+An online food incubator platform
 
 ## Getting Started
 
